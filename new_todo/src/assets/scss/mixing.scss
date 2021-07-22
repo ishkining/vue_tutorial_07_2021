@@ -1,0 +1,11 @@
+@mixin setContainers{
+    height: 100%;
+}
+
+@mixin setSizeForImages{
+    width: 20px;
+    height: 20px;
+    display:  block;
+    text-align: center;
+    align-self: center;
+}
